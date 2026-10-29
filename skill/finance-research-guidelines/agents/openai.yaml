@@ -1,0 +1,6 @@
+interface:
+  display_name: "Finance Research Guidelines"
+  short_description: "Keep scholarly research focused on economic evidence"
+  default_prompt: "Use $finance-research-guidelines to continue the study under its current research instructions and ordered plan."
+policy:
+  allow_implicit_invocation: true
