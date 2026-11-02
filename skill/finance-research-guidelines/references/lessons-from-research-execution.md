@@ -18,7 +18,7 @@ The failure was pervasive across research selection, execution, inference, inter
 | A clearer alternative draft was accepted without checking cohort and inferential meaning. | Preserve history, adopt better exposition, and reconcile claims to current estimates without drifting into unsupported intent or causation. |
 | User reports recited files, diagnostics, and compliance claims. | Give a self-contained academic explanation of the comparison, magnitudes, uncertainty, interpretation, and actual manuscript change. |
 
-Physical organization was also overstated: a new entry point left legacy top-level folders and an obsolete-looking dated state file in place. At an assigned organization checkpoint, group related assets physically, separate current status from history, archive superseded state and repair dependent paths. More documentation over the same clutter is not the requested deliverable.
+Putting files into archive/history folders failed when their economic role, current use and retention purpose remained opaque. Organization must distinguish paper evidence, operative measures and validation, nonpaper experiments, superseded decisions and generated files in the arrangement itself.
 
 An organized workspace or a compiled paper can support research. They are the deliverable when explicitly assigned, as at a phase checkpoint; they are not substitutes for empirical findings during substantive analysis. Similarly, provisional phase completion is an administrative and scientific status statement, not certification of an A* contribution.
 
