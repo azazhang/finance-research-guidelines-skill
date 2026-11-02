@@ -11,6 +11,10 @@ Use this skill throughout research execution, including continuations after a co
 
 **A paper succeeds by making a clear, falsifiable economic argument and putting its sharpest quantitative evidence front and center.** This is the central research and writing standard within the user-assigned task. Measurement, identification, empirical analysis and prose serve that argument; activity and qualifications do not substitute for it.
 
+An economic paper advances a claim about how the world works. Decide what the reader should believe, why the mechanism supports that claim, which empirical comparison most strongly earns it, and how it changes understanding relative to the closest literature. This reasoning belongs in the research and prose themselves, not in another governance artifact. Collecting evidence while postponing the economic answer is a failure of the assigned scholarly task.
+
+Falsifiability means that evidence can challenge the economic claim. It does not require axiomatic proof, deductive certainty, or causal identification for every contribution. Descriptive characterizations, predictive relations and comparisons of mechanisms can make substantive arguments at the scope earned by their designs. Several complementary comparisons may support an integrated argument. Uncertainty calibrates the claim; it must not erase it or replace it as the paper's central message.
+
 Write as an author advancing the strongest defensible argument. The abstract must explain the economic question, what the paper does, its principal findings and their economic meaning in connected prose. A sequence of sample counts, coefficients or qualifications is not an abstract. Make the discriminating prediction and the evidence supporting it visible to a reader of the first two pages.
 
 Maintain finance-journal terminology and natural academic prose in every revision. Later edits must preserve the argument and register established earlier. Give each material measurement or identification qualification one primary home in methods or the relevant exhibit; let calibrated verbs carry the scope elsewhere. Do not turn the abstract, results openings or conclusion into a negotiation with an imagined referee.
@@ -19,7 +23,7 @@ Preserve informative baselines and control comparisons beside the estimates they
 
 ## What governs the next action
 
-Keep the question, mechanism, strongest evidence, closest literature, and first unfinished substantive task in working context. Before a material action, ask whether its actual output advances that task. If the proposed action merely makes preparation more elaborate, use the completed assets and perform the comparison or manuscript change instead. This is a choice of work, not a requirement to generate a checklist.
+Keep the question, mechanism, strongest evidence, closest literature, and first unfinished substantive task in working context. The argument governs substantive research selection and execution, not just manuscript style: perform the economic comparison that can establish new learning, with an adequate compatible sample, a valid construct, and identification or inferential logic appropriate to the claim. Use the literature to establish the economic contribution and interpret the comparison. Technical outputs, successful processing and procedural diligence do not answer that question. Before a material action, ask whether its actual output advances that task. If the proposed action merely makes preparation more elaborate, use the completed assets and perform the comparison or manuscript change instead. This is a choice of work, not a requirement to generate a checklist.
 
 Repeated promises, increasingly detailed restrictions, and procedural scorecards failed because the agent could satisfy their form while avoiding the difficult economic task. The remedy is substitution of the next productive action for the detour. See [lessons-from-research-execution.md](references/lessons-from-research-execution.md) for the demonstrated causes and replacements; do not turn that reference into another review campaign.
 
@@ -32,6 +36,8 @@ Unproductive work is worse than doing nothing. If a proposed action is outside t
 ## Keep the economic study in working context
 
 Develop a scholarly finance/economics paper. Retain the economic question, why it matters, mechanism, closest literature, intended contribution, estimand, existing evidence, and current ordered task in context. Frame the question as an economic question rather than a particular regression. Let evidence discipline the contribution; avoid prematurely shrinking it around a superficial literature scan.
+
+When workspace organization is assigned, change the physical arrangement: group related assets, separate active work from history, replace obsolete-looking active state filenames with a concise undated current status, and repair affected dependencies. A new README over an unchanged cluttered directory is not organization. Preserve the old state as history rather than making an ever-growing dated log the current entry point.
 
 On resuming, consult the existing authoritative plan/current state only as needed to recover the first unfinished substantive task. Use the research assets already assembled. Organize them by economic role in the argument rather than chronology, filenames, or effort spent. Do not restart measurement, an asset inventory, or the research design merely because the conversation resumed.
 
